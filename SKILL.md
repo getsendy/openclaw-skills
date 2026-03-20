@@ -53,7 +53,7 @@ For each section, surface the **3–5 most notable items** from the last 24 hour
 ## Delivery
 
 - **Channel:** Telegram
-- **Chat ID:** 8735484967
+- **Chat ID:** 
 - **Format:** Plain text, no markdown
 - **Schedule:** 7:00 AM Pacific, daily
 
